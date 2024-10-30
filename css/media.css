@@ -1,0 +1,592 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .cm-b {
+        padding-bottom: 50px;
+    }
+    .cm-title {
+        margin-bottom: 10px;
+        font-size: 26px;
+    }
+    .cm-btn {
+        padding: 10px 20px;
+    }
+    /* header start */
+    header{
+        padding: 0;
+    }
+    .logo{
+        font-size: 20px;
+    }
+    .menu ul li a{
+        padding: 10px 0 0 !important;
+        text-align: end;
+    }
+    .dropdown{
+        text-align: end;
+    }
+    .navbar-nav .dropdown-menu {
+        position: inherit;
+        top: 0px;
+        left: 20px;
+    }
+    .btn-dd{
+        width: 250px;
+    }
+    /* banner */
+     .slider {
+        text-align: center;
+        margin: 30px 0;
+    }
+    .slider h1 {
+        margin-bottom: 15px;
+        font-size: 30px;
+    }
+    .slider p {
+        margin-bottom: 30px;
+        word-spacing: 2px;
+        line-height: 20px;
+    }
+    .li-btn{
+        padding: 5px 8px;
+        font-weight: 400;
+    }
+    .li-btn i{
+        margin-left: 5px;
+    }
+    .sl-btn{
+        margin-top: 20px;
+        margin-bottom: 5px;
+        text-align: center;
+    }
+    /* welcome */
+    .w-sp{
+        height: 40px;
+    }
+    .welcome h1{
+        margin: 10px 0 15px;
+        font-size: 28px;
+    }
+    /* service start */
+   .item {
+    margin-top: 50px;
+    padding: 20px 25px;
+    }
+    /* about */
+    .about{
+        text-align: center;
+    }
+    .about h1{
+        margin-top: 30px;
+    }
+    .about p{
+        margin: 5px 0 0;
+        padding: 0;
+    }
+    .c-p{
+        margin-bottom: 50px !important;
+    }
+    /* portfolio */
+    .portfolio{
+        padding-bottom: 50px;
+    }
+    .portfolio ul li{
+        margin-top: 10px;
+        margin-right: 0 !important;
+    }
+    .portfolio ul li a {
+        padding: 5px;
+    }
+    /* why */
+    .w-item {
+        padding: 35px 0 20px;
+    }
+    .w-header {
+        display: grid;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    .w-header i {
+        margin-bottom: 10px;
+        margin-right: 0;
+        font-size: 40px;
+    }
+    .w-header h2 {
+        font-size: 20px;
+    }
+    .why p {
+        font-size: 15px;
+        text-align: center;
+    }
+    /* pricing */
+    .p-p{
+        padding: 0 30px;
+    }
+    .pr-item {
+        padding: 25px 30px 30px;
+    }
+    .pr-btn{
+        display: flex;
+        justify-content: center;
+    }
+    /* call to action */
+    .hire p{
+        font-size: 18px;
+        text-align: center;
+    }
+    .h-btn{
+        margin-top: 20px;
+        text-align: center;
+    }
+    .hr-btn{
+        padding: 10px 40px;
+    }
+    .call-to-action {
+        padding: 20px 0;
+    }
+    /* slider2 */
+    .slider-2{
+        padding-bottom: 90px;
+    }
+    .s2 {
+        padding: 15px;
+    }
+    .name{
+        margin-top: 10px;
+    }
+    .title {
+        margin: 5px 0;
+    }
+    .position {
+        margin-bottom: 5px;
+    }
+    .s2-text{
+        text-align: center;
+    }
+    .s2-text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+        padding-top: 0px;
+    }
+    .s2-img i {
+        font-size: 50px;
+    }
+    .s2-btn{
+        background-color: #f8f8f8;
+        padding: 10px 20px;
+        position: relative;
+        top: 10px;
+        right: 0;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid var(--ash);
+        align-items: center;
+        flex-direction: row;
+    }
+    .s2-btn button{
+        transform: rotate(0deg);
+    }
+    .b-span{
+        align-self: center;
+        transform: rotate(0deg);
+    }
+    /* contact */
+    .contact {
+        padding: 30px 20px;
+    }
+    .con-title {
+        width: 180px;
+    }
+    .contact-form textarea {
+        padding: 20px 12px 0;
+    }
+    /* footer */
+    .footer-top{
+        padding-bottom: 30px;
+    }
+    .footer-top p {
+        margin-bottom: 30px;
+    }
+    .s-links ul li a i {
+        padding: 10px;
+        font-size: 16px;
+    }
+    .footer-bottom {
+        padding: 10px 0;
+    }
+    .ftb-text{
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .ftb-text p{
+        font-size: 14px;
+    }
+    .ftb-links{
+        font-size: 14px;
+        margin-bottom: 0;
+        text-align: center;
+    }
+    .ftb-links ul li {
+        margin-right: 10px !important;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .cm-b {
+        padding-bottom: 50px;
+    }
+    .cm-btn {
+        padding: 10px 18px;
+    }
+    .cm-title {
+        margin-bottom: 20px;
+    }
+    /* header start */
+    header{
+        padding: 0;
+    }
+    header h1 a{
+        font-size: 22px;
+    }
+    .menu ul li a{
+        padding: 10px 0 0 !important;
+        text-align: end;
+    }
+    .dropdown{
+        text-align: end;
+    }
+    .navbar-nav .dropdown-menu {
+        position: inherit;
+        top: -37px;
+        left: 130px;
+    }
+    /* banner */
+     .slider {
+        margin: 150px 0 145px;
+    }
+    .slider h1 {
+        margin-bottom: 30px;
+        font-size: 45px;
+    }
+    .slider p {
+        margin-bottom: 30px;
+        word-spacing: 2px;
+        line-height: 25px;
+    }
+    .slider a{
+        padding: 10px 15px;
+        font-weight: 400;
+    }
+    .slider a i {
+        margin-left: 10px;
+    }
+    /* welcome */
+    .welcome h1{
+        margin: 10px 0 30px;
+    }
+    /* service start */
+    .item {
+        margin-top: 50px;
+    }
+    /* about */
+    .about{
+        text-align: center;
+    }
+    .about h1{
+        margin-top: 30px;
+    }
+    .about p{
+        margin: 35px 0 0;
+    }
+    .c-p{
+        margin: 0 !important;
+        padding: 25px 0 50px;
+    }
+    /* portfolio */
+    .portfolio{
+        padding-bottom: 50px;
+    }
+    .portfolio ul li a {
+        padding: 5px;
+    }
+    /* why */
+    .w-item {
+        padding: 35px 0 20px;
+    }
+    .w-header {
+        margin-bottom: 20px;
+    }
+    .w-header i {
+        margin-right: 15px;
+        font-size: 40px;
+    }
+    .w-header h2 {
+        font-size: 20px;
+    }
+    .why p {
+        font-size: 15px;
+    }
+    /* pricing */
+    .pr-item {
+        padding: 25px 20px 30px;
+    }
+    /* call to action */  
+    .call-to-action {
+        margin-bottom: 50px;
+        padding: 30px 0;
+    }
+    /* slider2 */
+    .slider-2{
+        padding-bottom: 90px;
+    }
+    .s2 {
+        padding: 20px 20px;
+    }
+    .name{
+        margin-top: 10px;
+    }
+    .title {
+        margin: 10px 0;
+    }
+    .position {
+        margin-bottom: 10px;
+    }
+    .s2-text{
+        text-align: center;
+    }
+    .s2-text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+        padding-top: 0px;
+    }
+    .s2-img i {
+        font-size: 70px;
+    }
+    .s2-btn{
+        background-color: #f8f8f8;
+        padding: 10px 20px;
+        position: relative;
+        top: 10px;
+        right: 0;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid var(--ash);
+        align-items: center;
+        flex-direction: row;
+    }
+    .s2-btn button{
+        transform: rotate(0deg);
+    }
+    .b-span{
+        align-self: center;
+        transform: rotate(0deg);
+    }
+    /* contact */
+    .contact {
+        padding: 60px 40px 30px;
+    }
+    .contact-form textarea {
+        padding: 20px 12px;
+    }
+    /* footer */
+    .footer-bottom {
+        padding: 10px 0;
+    }
+    .ftb-text{
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .ftb-links{
+        margin-bottom: 0;
+        text-align: center;
+    }
+    .ftb-links ul li {
+        margin-right: 20px !important;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .cm-b {
+        padding-bottom: 80px;
+    }
+    .cm-title{
+        font-size: 26px;
+    }
+    /* header start */
+    header{
+        padding: 10px 0;
+    }
+    .menu ul li a{
+        padding: 10px 0 0 !important;
+        text-align: end;
+    }
+    .dropdown{
+        text-align: end;
+    }
+    .navbar-nav .dropdown-menu {
+        position: inherit;
+        top: -37px;
+        left: 310px;
+    }
+    /* banner */
+    .slider {
+        margin: 170px 0 150px;
+    }
+    .slider h1 {
+        font-size: 50px;
+    }
+    .slider a{
+        padding: 10px 20px;
+        font-weight: 400;
+    }
+    /* service */
+   .item {
+        margin-top: 50px;
+        padding: 20px 25px;
+    }
+    /* about */
+    .about{
+        text-align: center;
+    }
+    .about h1{
+        margin-top: 50px;
+    }
+    .about p{
+        margin: 35px 0 0;
+    }
+    .c-p{
+        margin-bottom: 50px !important;
+    }
+    /* portfolio */
+    .portfolio{
+        padding-bottom: 80px;
+    }
+    .h-icon{
+        top: 30%;
+    }
+    .text{
+        padding: 5px 10px;
+    }
+    /* why */
+    .w-item {
+        padding: 35px 0 20px;
+    }
+    .w-header {
+        margin-bottom: 20px;
+    }
+    .w-header i {
+        margin-right: 10px;
+        font-size: 36px;
+    }
+    .w-header h2 {
+        font-size: 16px;
+    }
+    .why p {
+        font-size: 15px;
+    }
+    /* call to action */  
+    .call-to-action {
+        padding: 30px 0;
+    }
+    /* slider2 */
+    .s2 {
+        padding: 10px 10px 0;
+    }
+    .title {
+        margin: 5px 0;
+    }
+    .position {
+        margin-bottom: 0;
+    }
+    .s2-text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+        padding-top: 0px;
+    }
+    .s2-btn{
+        background-color: #f8f8f8;
+        padding: 10px 20px;
+        position: relative;
+        top: 10px;
+        right: 0;
+        height: 100%;
+        display: flex;
+        justify-content: space-between;
+        border: 1px solid var(--ash);
+        align-items: center;
+        flex-direction: row;
+    }
+    .s2-btn button{
+        transform: rotate(0deg);
+    }
+    .b-span{
+        align-self: center;
+        transform: rotate(0deg);
+    }
+    /* contact */
+    .contact {
+        padding: 80px 70px 40px 70px;
+    }
+    /* footer */
+    .ftb-text p{
+        font-size: 14px;
+    }
+    .ftb-links ul li {
+        margin-right: 5px !important;
+    }
+    .footer-bottom {
+        padding: 10px 0;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* common */
+    header{
+        padding: 0;
+    }
+    .cm-btn {
+        padding: 10px 18px;
+    }
+    /* about */
+    .about-title{
+        margin-bottom: 10px;
+    }
+    .c-p {
+        padding: 0 0 12px;
+    }
+    /* member */
+    .m-text {
+        padding: 15px 0 5px 10px;
+    }
+    .m-text h2{
+        font-size: 16px;
+    }
+    /* pricing */
+    .pr-item {
+        padding: 25px 8px 30px;
+    }
+    /* slider2 */
+    .title {
+        margin: 10px 0;
+    }
+    .s2-text p {
+        margin-bottom: 10px;
+        padding-top: 0px;
+    }
+    /* contact */
+    .contact {
+        padding: 80px 100px 40px 100px;
+    }
+}
+/* Extra extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1400px) {
+    
+}
