@@ -2,7 +2,7 @@
 This is the largest and most detailed project I’ve created to date, developed with HTML, CSS, and Bootstrap. The project is fully responsive, and designed to deliver a seamless experience across all screen sizes. It features multiple sections, each showcasing different aspects of front-end design and responsive layout.
 
 # Features
-Fully Responsive: Built with Bootstrap and custom CSS, adapting to desktops, tablets, and mobile devices for an optimized user experience.
+**Fully Responsive**: Built with Bootstrap and custom CSS, adapting to desktops, tablets, and mobile devices for an optimized user experience.
 Sectioned Layout:
 Features Section: An overview of core offerings, highlighting the unique values and strengths of the site.
 
