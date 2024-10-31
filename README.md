@@ -4,16 +4,16 @@ This is the largest and most detailed project I’ve created to date, developed 
 # Features
 **Fully Responsive**: Built with Bootstrap and custom CSS, adapting to desktops, tablets, and mobile devices for an optimized user experience.
 Sectioned Layout:
-Features Section: An overview of core offerings, highlighting the unique values and strengths of the site.
+**Features Section**: An overview of core offerings, highlighting the unique values and strengths of the site.
 
-Team Introduction: Detailed team member profiles with images and brief descriptions to add a personal touch.
+**Team Introduction**: Detailed team member profiles with images and brief descriptions to add a personal touch.
 
-Pricing Plans: Presented pricing tiers to inform users of various service levels.
+**Pricing Plans**: Presented pricing tiers to inform users of various service levels.
 
-Contact Form: Enables users to easily reach out, enhancing engagement and connectivity.
+**Contact Form**: Enables users to easily reach out, enhancing engagement and connectivity.
 
 # Project Highlights
-Design Fidelity: This project was based on a Figma design, focusing on accurate layout recreation and attention to detail.
+**Design Fidelity**: This project was based on a Figma design, focusing on accurate layout recreation and attention to detail.
 CSS Frameworks & Customization: I leveraged Bootstrap for quicker styling and layout structuring but also added custom CSS to refine and customize specific elements.
 Learning & Development: This project taught me how to break down a design into modular sections, apply responsive design principles effectively, and work within a framework for scalable, maintainable code.
 # Purpose
