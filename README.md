@@ -4,6 +4,7 @@ This is the largest and most detailed project I’ve created to date, developed 
 # Features
 **Fully Responsive**: Built with Bootstrap and custom CSS, adapting to desktops, tablets, and mobile devices for an optimized user experience.
 Sectioned Layout:
+
 **Features Section**: An overview of core offerings, highlighting the unique values and strengths of the site.
 
 **Team Introduction**: Detailed team member profiles with images and brief descriptions to add a personal touch.
