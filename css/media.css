@@ -584,7 +584,26 @@
 }
 /* Extra extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) and (max-width: 1399.98px) {
-
+    /* common */
+        .cm-btn {
+            padding: 10px 18px;
+        }
+        /* about */
+        .c-p {
+            padding: 25px 0 40px;
+        }
+        /* pricing */
+        .pr-item {
+            padding: 25px 30px 30px;
+        }
+        /* slider2 */
+        .s2-text p {
+            padding-top: 20px;
+        }
+        /* contact */
+        .contact {
+            padding: 80px 100px 40px 100px;
+        }
 }
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1400px) {
